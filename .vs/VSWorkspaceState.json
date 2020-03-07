@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lastpostodb",
+    "\\[esx]",
+    "\\[managers]\\mapmanager"
   ],
+  "SelectedNode": "\\lastpostodb\\client.lua",
   "PreviewInSolutionExplorer": false
 }
