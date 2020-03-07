@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['fr'] = {
   ['new_message'] = '~b~You have received a message:~s~ %s',
   ['press_take_call'] = '%s - Press ~INPUT_CONTEXT~ to take the call',
   ['taken_call'] = '~y~%s~s~ has taken the call',
