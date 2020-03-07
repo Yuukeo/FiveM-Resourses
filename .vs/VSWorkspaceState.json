@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lastpostodb",
+    "\\new_banking",
     "\\[esx]",
+    "\\[esx]\\esx_advancedgarage",
+    "\\[esx]\\esx_dmvschool\\html",
+    "\\[esx]\\esx_phone\\html",
+    "\\[esx]\\esx_phone\\locales",
     "\\[managers]\\mapmanager"
   ],
-  "SelectedNode": "\\lastpostodb\\client.lua",
+  "SelectedNode": "\\[esx]\\esx_advancedgarage\\esx_vehicleshop_fix.sql",
   "PreviewInSolutionExplorer": false
 }

@@ -16,7 +16,7 @@ Config.HandcuffTimer              = 10 * 60000 -- 10 mins
 Config.EnableJobBlip              = true -- enable blips for cops on duty, requires esx_society
 Config.EnableCustomPeds           = false -- enable custom peds in cloak room? See Config.CustomPeds below to customize peds
 
-Config.EnableESXService           = true -- enable esx service?
+Config.EnableESXService           = false -- enable esx service?
 Config.MaxInService               = 10
 
 Config.Locale                     = 'en'
